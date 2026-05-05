@@ -85,7 +85,7 @@ onde funções puras brilham.
 
 ---
 
-## 🔧 Parte 1 — Paradigma Imperativo (`imperativo.py`)
+## Parte 1 — Paradigma Imperativo (`imperativo.py`)
 
 O paradigma imperativo descreve o programa como uma **sequência de comandos
 que alteram o estado** da memória. O computador executa passo a passo, o
