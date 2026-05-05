@@ -10,9 +10,9 @@ Atividade avaliativa de Paradigmas da Programação - EECP0005
 
 ---
 
-## 📊 Comparações Obrigatórias
+## Comparações Obrigatórias
 
-### 🔹 Diferenças percebidas entre os paradigmas
+### Diferenças percebidas entre os paradigmas
 
 No paradigma imperativo, o sistema utiliza uma lista global que é modificada ao longo da execução. As funções acessam e alteram diretamente o estado do acervo, o que caracteriza uma abordagem baseada em mudanças de estado.
 
@@ -20,7 +20,7 @@ Já no paradigma funcional, a lista não é alterada diretamente. Cada operaçã
 
 ---
 
-### 🔹 Vantagens e desvantagens de cada abordagem
+### Vantagens e desvantagens de cada abordagem
 
 **Imperativo:**
 
@@ -34,7 +34,7 @@ Como desvantagem, essa abordagem exige mais atenção, pois sempre é necessári
 
 ---
 
-### 🔹 Qual abordagem foi mais fácil/difícil e por quê?
+### Qual abordagem foi mais fácil/difícil e por quê?
 
 O paradigma imperativo foi mais fácil de implementar, pois segue um modelo mais comum, baseado na alteração direta de variáveis e execução sequencial.
 
@@ -42,7 +42,7 @@ Já o paradigma funcional exigiu uma adaptação maior, pois não permite modifi
 
 ---
 
-### 🔹 Impacto na legibilidade e manutenção do código
+### Impacto na legibilidade e manutenção do código
 
 O código imperativo é mais fácil de entender inicialmente, pois segue uma lógica mais direta e sequencial. No entanto, a dependência de variáveis globais pode dificultar a manutenção, já que o estado pode ser alterado em diferentes partes do sistema.
 
@@ -50,7 +50,7 @@ O código funcional, apesar de mais complexo no início, tende a ser mais organi
 
 ---
 
-## ⚙️ Instruções de uso do programa funcional
+## Instruções de uso do programa funcional
 
 O programa funcional funciona sem alterar diretamente os dados. Todas as operações retornam uma nova versão do acervo.
 
