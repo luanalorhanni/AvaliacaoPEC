@@ -2,12 +2,6 @@
 atividade avaliativa de paradigmas da programação - EECP0005
 
 
-# AvaliacaoPEC
-atividade avaliativa de paradigmas da programação - EECP0005
-
-# AvaliacaoPEC
-Atividade avaliativa de Paradigmas da Programação - EECP0005
-
 ---
 
 ## Comparações Obrigatórias
