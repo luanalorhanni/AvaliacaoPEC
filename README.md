@@ -4,9 +4,10 @@ Sistema simples de cadastro de livros (CRUD) construído em Python com o objetiv
 **didático** de demonstrar a coexistência dos paradigmas **imperativo** e
 **funcional** dentro do mesmo projeto, mostrando onde cada um se encaixa melhor.
 
+Por: LUANA LORHANNI PACHECO SANTOS e   EDNA CRISTINA DURANS SANTOS
 ---
 
-## 📁 Estrutura do projeto
+##  Estrutura do projeto
 
 ```
 biblioteca-crud/
@@ -26,7 +27,7 @@ apenas consultados** (funcional).
 
 ---
 
-## ▶️ Como executar
+##  Como executar
 
 Basta ter Python 3.8+ instalado. Não há dependências externas.
 
@@ -60,7 +61,7 @@ arquivo `livros.json` antes de executar.
 
 ---
 
-## 🧠 Como os dois paradigmas trabalham juntos
+##  Como os dois paradigmas trabalham juntos
 
 A divisão de responsabilidades é a seguinte:
 
@@ -120,7 +121,7 @@ estrutura, retorne o resultado.
 
 ---
 
-## 🧬 Parte 2 — Paradigma Funcional (`funcional.py`)
+##  Parte 2 — Paradigma Funcional (`funcional.py`)
 
 O paradigma funcional trata a computação como **avaliação de funções
 matemáticas**: a partir das mesmas entradas, sempre se obtém a mesma saída,
@@ -172,7 +173,7 @@ finalmente reduzimos somando tudo. Cada etapa é uma transformação pura.
 
 ---
 
-## ⚖️ Vantagens e desvantagens de cada paradigma (visão teórica)
+##  Vantagens e desvantagens de cada paradigma (visão teórica)
 
 ### Paradigma Imperativo
 
@@ -232,7 +233,7 @@ finalmente reduzimos somando tudo. Cada etapa é uma transformação pura.
 
 ---
 
-## 🎯 Quando usar cada um?
+##  Quando usar cada um?
 
 A regra prática que adotamos neste projeto:
 
@@ -250,7 +251,7 @@ problemas.
 
 ---
 
-## 🧪 Exemplo de uso
+## Exemplo de uso
 
 ```
 ==================================================
@@ -278,7 +279,7 @@ Número de páginas: 256
 
 ---
 
-## 🎓 Conclusões dos autores
+##  Conclusões dos autores
 
 Esta seção reúne as reflexões pessoais dos autores do projeto sobre a
 experiência de implementar o sistema usando os dois paradigmas em conjunto.
@@ -353,7 +354,7 @@ tempo.
 
 ---
 
-## 📌 Observações finais
+##  Observações finais
 
 - O arquivo `livros.json` é gerado automaticamente; **não há banco de dados**
   envolvido. Caso queira evoluir o projeto para usar SQLite, PostgreSQL ou
