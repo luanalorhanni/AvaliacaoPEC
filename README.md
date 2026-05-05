@@ -54,7 +54,7 @@ O código funcional, apesar de mais complexo no início, tende a ser mais organi
 
 O programa funcional funciona sem alterar diretamente os dados. Todas as operações retornam uma nova versão do acervo.
 
-### ▶️ Como utilizar:
+### Como utilizar:
 
 1. Execute o arquivo principal:
    ```bash
