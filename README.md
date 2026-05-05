@@ -4,7 +4,7 @@ Sistema simples de cadastro de livros (CRUD) construído em Python com o objetiv
 **didático** de demonstrar a coexistência dos paradigmas **imperativo** e
 **funcional** dentro do mesmo projeto, mostrando onde cada um se encaixa melhor.
 
-Por: LUANA LORHANNI PACHECO SANTOS e   EDNA CRISTINA DURANS SANTOS
+AUTORES: LUANA LORHANNI PACHECO SANTOS e   EDNA CRISTINA DURANS SANTOS
 ---
 
 ##  Estrutura do projeto
