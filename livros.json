@@ -1,0 +1,219 @@
+[
+    {
+        "id": 1,
+        "titulo": "Noites Brancas",
+        "autor": "Fiedor Dostoieviski",
+        "ano": 1980,
+        "paginas": 120
+    },
+    {
+        "id": 2,
+        "titulo": "Dom Casmurro",
+        "autor": "Machado de Assis",
+        "ano": 1899,
+        "paginas": 256
+    },
+    {
+        "id": 3,
+        "titulo": "Memórias Póstumas de Brás Cubas",
+        "autor": "Machado de Assis",
+        "ano": 1881,
+        "paginas": 320
+    },
+    {
+        "id": 4,
+        "titulo": "Quincas Borba",
+        "autor": "Machado de Assis",
+        "ano": 1891,
+        "paginas": 304
+    },
+    {
+        "id": 5,
+        "titulo": "Iracema",
+        "autor": "José de Alencar",
+        "ano": 1865,
+        "paginas": 144
+    },
+    {
+        "id": 6,
+        "titulo": "O Guarani",
+        "autor": "José de Alencar",
+        "ano": 1857,
+        "paginas": 432
+    },
+    {
+        "id": 7,
+        "titulo": "Senhora",
+        "autor": "José de Alencar",
+        "ano": 1875,
+        "paginas": 320
+    },
+    {
+        "id": 8,
+        "titulo": "Capitães da Areia",
+        "autor": "Jorge Amado",
+        "ano": 1937,
+        "paginas": 280
+    },
+    {
+        "id": 9,
+        "titulo": "Gabriela, Cravo e Canela",
+        "autor": "Jorge Amado",
+        "ano": 1958,
+        "paginas": 424
+    },
+    {
+        "id": 10,
+        "titulo": "Dona Flor e Seus Dois Maridos",
+        "autor": "Jorge Amado",
+        "ano": 1966,
+        "paginas": 552
+    },
+    {
+        "id": 11,
+        "titulo": "Vidas Secas",
+        "autor": "Graciliano Ramos",
+        "ano": 1938,
+        "paginas": 176
+    },
+    {
+        "id": 12,
+        "titulo": "São Bernardo",
+        "autor": "Graciliano Ramos",
+        "ano": 1934,
+        "paginas": 224
+    },
+    {
+        "id": 13,
+        "titulo": "A Hora da Estrela",
+        "autor": "Clarice Lispector",
+        "ano": 1977,
+        "paginas": 96
+    },
+    {
+        "id": 14,
+        "titulo": "A Paixão Segundo G.H.",
+        "autor": "Clarice Lispector",
+        "ano": 1964,
+        "paginas": 192
+    },
+    {
+        "id": 15,
+        "titulo": "O Cortiço",
+        "autor": "Aluísio Azevedo",
+        "ano": 1890,
+        "paginas": 304
+    },
+    {
+        "id": 16,
+        "titulo": "Grande Sertão: Veredas",
+        "autor": "Guimarães Rosa",
+        "ano": 1956,
+        "paginas": 624
+    },
+    {
+        "id": 17,
+        "titulo": "Cem Anos de Solidão",
+        "autor": "Gabriel García Márquez",
+        "ano": 1967,
+        "paginas": 448
+    },
+    {
+        "id": 18,
+        "titulo": "O Amor nos Tempos do Cólera",
+        "autor": "Gabriel García Márquez",
+        "ano": 1985,
+        "paginas": 416
+    },
+    {
+        "id": 19,
+        "titulo": "Crime e Castigo",
+        "autor": "Fiódor Dostoiévski",
+        "ano": 1866,
+        "paginas": 592
+    },
+    {
+        "id": 20,
+        "titulo": "Os Irmãos Karamázov",
+        "autor": "Fiódor Dostoiévski",
+        "ano": 1880,
+        "paginas": 832
+    },
+    {
+        "id": 21,
+        "titulo": "Guerra e Paz",
+        "autor": "Liev Tolstói",
+        "ano": 1869,
+        "paginas": 1225
+    },
+    {
+        "id": 22,
+        "titulo": "Anna Karênina",
+        "autor": "Liev Tolstói",
+        "ano": 1877,
+        "paginas": 864
+    },
+    {
+        "id": 23,
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "ano": 1949,
+        "paginas": 328
+    },
+    {
+        "id": 24,
+        "titulo": "A Revolução dos Bichos",
+        "autor": "George Orwell",
+        "ano": 1945,
+        "paginas": 152
+    },
+    {
+        "id": 25,
+        "titulo": "O Hobbit",
+        "autor": "J.R.R. Tolkien",
+        "ano": 1937,
+        "paginas": 336
+    },
+    {
+        "id": 26,
+        "titulo": "A Sociedade do Anel",
+        "autor": "J.R.R. Tolkien",
+        "ano": 1954,
+        "paginas": 576
+    },
+    {
+        "id": 27,
+        "titulo": "O Pequeno Príncipe",
+        "autor": "Antoine de Saint-Exupéry",
+        "ano": 1943,
+        "paginas": 96
+    },
+    {
+        "id": 28,
+        "titulo": "Orgulho e Preconceito",
+        "autor": "Jane Austen",
+        "ano": 1813,
+        "paginas": 432
+    },
+    {
+        "id": 29,
+        "titulo": "Harry Potter e a Pedra Filosofal",
+        "autor": "J.K. Rowling",
+        "ano": 1997,
+        "paginas": 264
+    },
+    {
+        "id": 30,
+        "titulo": "Fahrenheit 451",
+        "autor": "Ray Bradbury",
+        "ano": 1953,
+        "paginas": 256
+    },
+    {
+        "id": 31,
+        "titulo": "O Apanhador no Campo de Centeio",
+        "autor": "J.D. Salinger",
+        "ano": 1951,
+        "paginas": 240
+    }
+]
